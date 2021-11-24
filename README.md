@@ -18,6 +18,9 @@ Achievement:
 - 🏆 democracy school certificate ✔️
 
 
+Im curently focus on : PHP, HTML & Javascript
+
+
 
 
 <!---
