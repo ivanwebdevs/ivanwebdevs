@@ -6,16 +6,16 @@
 
 Achievement:
 
-🏆 Certified on Learning basic website programming ✔️
-🏆 Certified on Telkom Akses ✔️
-🏆 Certified on Dicoding ✔️
-🏆 Certified on Google Developers ✔️
-🏆 Baparekraf Game Prime 2021 - Class Certificate ✔️
-🏆 Baparekraf Game Prime 2021 - Conference Certificate ✔️
-🏆 Best Practice for Migrating from On-Premise to Google Cloud Certificate ✔️
-🏆 Dicoding X Kampus Merdeka Certificate ✔️
-🏆 Lintasarta Developer Talk Online Series #1 - JavaScript Module Bundler dengan Webpack Certificate ✔️
-🏆 democracy school certificate ✔️
+- 🏆 Certified on Learning basic website programming ✔️
+- 🏆 Certified on Telkom Akses ✔️
+- 🏆 Certified on Dicoding ✔️
+- 🏆 Certified on Google Developers ✔️
+- 🏆 Baparekraf Game Prime 2021 - Class Certificate ✔️
+- 🏆 Baparekraf Game Prime 2021 - Conference Certificate ✔️
+- 🏆 Best Practice for Migrating from On-Premise to Google Cloud Certificate ✔️
+- 🏆 Dicoding X Kampus Merdeka Certificate ✔️
+- 🏆 Lintasarta Developer Talk Online Series #1 - JavaScript Module Bundler dengan Webpack Certificate ✔️
+- 🏆 democracy school certificate ✔️
 
 
 
