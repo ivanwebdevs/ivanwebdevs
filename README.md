@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning basic website programming
 - 💞️ I’m looking to collaborate on PT.Sinar Timur Mandiri
-- 📫 you can Follow my instagram: @indocyberteam
+- 📫 you can Follow my instagram: @vn_dwi
 
 Achievement:
 
