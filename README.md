@@ -18,6 +18,16 @@ Achievement:
 - 🏆 democracy school certificate ✔️
 
 
+Class Course :
+
+- Build Progressive Web Apps
+- Cloud Practitioner Essentials (Belajar Dasar AWS)
+- Learn Basic Web Programming
+- Getting Started Programming With Java
+- Learn Front-End Web Development Fundamentals
+- Getting Started Programming With Python
+
+
 Im curently focus on : PHP, HTML & Javascript
 
 
